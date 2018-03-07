@@ -1,1 +1,1 @@
-# https://toxicard0.github.io
+# https://toxicard0.github.io/toxicard0
