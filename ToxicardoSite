@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<title>Toxicardo</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-blue">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="http://cdn.espn.com.br/image/wide/622_4d375985-2f05-359f-847f-32e0c0d9d211.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-white">
+            <h4>Ricardo Oliveira</h4>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Gamer</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Pedro Teixeira, BR</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>ex@mail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>1224435534</p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>League of Legends</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">98%</div>
+          </div>
+          <p>Point Blank</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+              <div class="w3-center w3-text-white">80%</div>
+            </div>
+          </div>
+          <p>Ragnarok</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div>
+          </div>
+          <p>HearthStone</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>Português</p>
+           <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:95%">95%</div>
+          </div>
+          <p>Inglês</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
+          </div>
+          <p>Espanhol</p>
+            <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:40%">40%</div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+    
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Experiência em jogos online</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Primeiro contato com jogos online</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Julho 2008<span class="w3-tag w3-teal w3-round"></span></h6>
+          <p>Os primeiros jogos online que joguei foram Ragnarok e Lineage 2, eram jogos q estavam em seu auge na época, meu primeiro contato com o ragnarok foi em uma lan house em Lima Duante - MG apresentado por um primo que ja conhecia o jogo. Com o Lineage 2 foi tambem em uma lan house, mas em Juiz de Fora - MG e apresentado pelo meu irmão mais velho, não voltei a jogar ragnarok por um bom tempo, mas o Lineage eu passei a jogar todos os finais de semana que eu ia para Juiz de Fora, meu pai dava 10 reias pra mim mais 10 para o meu irmão e ficavamos sábado de 12h às 22h jogando Lineage na lan house.</p>
+         <button onclick="location.href='https://ragnarok.uol.com.br/'">Ragnarok</button>
+          
+ <button onclick="location.href='https://lineage2.com/'">Lineage 2</button>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Fevereiro 2010</h6>
+          <p>Em fevereiro de 2010 eu me mudei para Juiz de Fora, agora eu teria um computador e internet em casa, na época eu ainda jogava bastante video-game mas fui trocando-o cada vez mais pelo computador, quando me mudei corri atrás de conseguir o Lineage e o Ragnarok para instalar no meu pc pois a internet era muito ruim e não dava para baixar, em momentos que eu estava muito atoa costumava ficar escreveno nomes que eu usaria nos jogos, e eram sempre horriveis, nunca tive criatividade pra isso.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Julho 2011</h6>
+          <p>Fui apresentado ao Point Blank, que se tornaria o primeiro jogo online onde eu realmente comecei a jogar por varias horas seguidas, como a maioria dos jogos online que joguei até hj, este tambem foi apresentado pelo meu irmão, ele não gostou muito do jogo pois n era fan de jogos FPS (First-Person Shooter), mas eu acabei fazendo muitos amigos dentro do jogo e me apegando bastante, o jogo era um pouco pay2win entao eu costumava gastar uns 50 reais por mês nele, mas n me arrependo pois me diverti muito jogando, depois de uns 2 anos até comecei a jogar alguns campeonatos com os meus amigos. </p>
+                    <button onclick="location.href='https://pb.ongame.net/'">Point Blank</button>
+<br>
+        </div>
+                <div class="w3-container">
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Dezembro 2012</h6>
+          <p>Conheci o League of Legends (eu ja tinha tido um contato com o jogo em 2011 logo após seu lançamento mas nem dei ideia), novamente através do meu irmão, no começo eu não agradei muito do jogo pois eu era bem ruim e estava bem animado em jogar Point Blank, mas no ano seguinte eu voltei a dar outra oportunidade para o jogo pois estava ficando um pouco enjoado do PB, oque mais me animo a jogar foram os amigos na escola, no começo de 2013 tinha um aluno da minha turma que jogava LoL e eu comentei que ja tinha jogado uma vez, após conversarmos bastante sobre o jogo eu acabei ficando na vontade de joga-lo novamente, mas dessa vez chamei outros amigos para jogarmos juntos, o jogo é um MOBA 5 vs 5, ou seja, 5 jogadores de cada lado, eu chamei mais 3 amigos para jogarem e começamos todos a jogar juntos, todo mundo era ruim e ninguem entendia nada do jogo direito, mas era muito divertido, passado varios anos eu continuo jogando League of Legends, e as vezes ainda jogo com alguns desses amigos que começaram a jogar comigo 5 anos atrás. </p>
+          <button onclick="location.href='https://br.leagueoflegends.com/'">League of Legends</button>
+          <br>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Nicknames</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b></b></h5>
+          <h6 class="w3-text-teal"></i>League of Legends</h6>
+          <p>Yasuo Player (por enquanto), Give me a Sup, Algoooz</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b></b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Point Blank</h6>
+          <p>Gx5Hannibal, Pandazii (não jogo mais)</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b></b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Discord</h6>
+          <p>Puta Cara Babaca#1609</p><br>
+        </div>
+      </div>
+
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+<i class="fa fa-youtube w3-hover-opacity"><a href="https://www.youtube.com/channel/UC-x5_KxNWYKdHOfJ0VU3xTA" target="_blank">Toxicardo LoL</a></i>
+</footer>
+</body>
+</html>
